@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82d15367-4f0c-4a3d-b9eb-1fdc32ae22b9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/day2/Day2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/shared/InputReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/input2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day3/Day3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/input3.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day1/Day1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day1/Day1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +43,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "settings.editor.selected.configurable": "editor.preferences.import"
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -53,7 +51,7 @@
       <recent name="$PROJECT_DIR$/src/main/resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Day2">
+  <component name="RunManager" selected="Application.Day3">
     <configuration name="Day1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day1.Day1" />
       <module name="advent-of-code-2022" />
@@ -80,6 +78,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Day3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day3.Day3" />
+      <module name="advent-of-code-2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day2.Teste" />
       <module name="advent-of-code-2022" />
@@ -95,6 +106,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Day3" />
         <item itemvalue="Application.Day2" />
         <item itemvalue="Application.Day1" />
         <item itemvalue="Application.Teste" />
